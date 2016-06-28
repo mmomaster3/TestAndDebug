@@ -19,7 +19,6 @@ namespace TestAndDebug
 
         public void FillandSearchMiddle()
         {
-            //Random r = new Random();
             //Console.WriteLine("size:");
             int m = 3/*int.Parse(Console.ReadLine())*/;
 
